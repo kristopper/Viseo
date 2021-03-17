@@ -1,0 +1,15 @@
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.csprojAssemblyReference.cache
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.AssemblyInfoInputs.cache
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.AssemblyInfo.cs
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.csproj.CoreCompileInputs.cache
+D:\ViseoExam\src\Viseo.Application\bin\Debug\net5.0\Viseo.Application.deps.json
+D:\ViseoExam\src\Viseo.Application\bin\Debug\net5.0\Viseo.Application.dll
+D:\ViseoExam\src\Viseo.Application\bin\Debug\net5.0\ref\Viseo.Application.dll
+D:\ViseoExam\src\Viseo.Application\bin\Debug\net5.0\Viseo.Application.pdb
+D:\ViseoExam\src\Viseo.Application\bin\Debug\net5.0\Viseo.Domain.dll
+D:\ViseoExam\src\Viseo.Application\bin\Debug\net5.0\Viseo.Domain.pdb
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.csproj.CopyComplete
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.dll
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\ref\Viseo.Application.dll
+D:\ViseoExam\src\Viseo.Application\obj\Debug\net5.0\Viseo.Application.pdb
